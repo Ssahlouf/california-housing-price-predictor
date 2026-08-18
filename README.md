@@ -126,6 +126,9 @@ jupyter notebook notebooks/01_eda_and_modeling.ipynb
 
 ---
 
+## 🌐 Live Demo
+👉 [Try the app here](https://california-housing-price-predictor-mojvzmskvxpjkg3agt6dh7.streamlit.app/)
+
 ## 👤 Author
 
 **Ssahlouf**  
